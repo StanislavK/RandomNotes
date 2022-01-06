@@ -2,4 +2,4 @@
 
 >I have installed *SwiftLint* with *Brew* (and it is up and working fine), nevertheless when using original script as suggested in [realm/SwiftLint](https://github.com/realm/SwiftLint#xcode) - it does not work. The following warning is presented by Xcode and there is no "linting" 😱.
 
-![](images/Xcode-with-warning.png)
+![](Images/Xcode-with-warning.png)
